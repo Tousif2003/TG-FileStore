@@ -44,7 +44,7 @@
 - Step 3: Edit Deploy link button! and change to your USERNAME and REPO Name.
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Your_Github_user_Name/Your_Repo_Name)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tousif2003/TG-FileStore)
 
 ### Deploy Now For Shortner:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/TG-FileStore/tree/shortner)
